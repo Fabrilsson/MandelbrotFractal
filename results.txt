@@ -1,0 +1,6 @@
+286 segundos - 32 threads (1kk maxiter)
+288.9 segundos - 16 threads (1kk maxiter)
+293.1 segundos - 8 threads (1kk maxiter)
+301.4 segundos - 4 threads (1kk maxiter)
+376.5 segundos - 2 threads (1kk maxiter)
+655.1 segundos - 1 thread   (1kk maxiter)
